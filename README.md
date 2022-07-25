@@ -8,5 +8,5 @@ https://user-images.githubusercontent.com/29691950/180817895-57a78210-cdf8-4c87-
 
 1. How to find head movements about y-axis more acurately.
 2. Find tune the parameters by which bone's location is changing.
-
+3. Figure out how to incorporate body movements
 
